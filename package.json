@@ -1,0 +1,23 @@
+{
+  "name": "ajs-3-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antyfeev96/ajs-3-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antyfeev96/ajs-3-node/issues"
+  },
+  "homepage": "https://github.com/Antyfeev96/ajs-3-node#readme",
+  "dependencies": {
+    "@antyfeev96/ajs-3-0": "^1.0.0"
+  }
+}
